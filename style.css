@@ -28,23 +28,27 @@ li {
   font-size: 0.9rem;
   margin-bottom: 1.2rem;
   margin-top: 0.3rem;
+  color: #74746f;
 }
 
 .date {
   font-family: "Open Sans", sans-serif;
   font-size: 0.8rem;
   margin-top: 0.3rem;
+  color: #74746f;
 }
 
 .skills-subheading {
   font-weight: bold;
   font-size: 0.9rem;
   margin-bottom: 0.4rem;
+  color: #74746f;
 }
 
 .skills-text {
   font-size: 0.9rem;
   margin-bottom: 1rem;
+  color: #74746f;
 }
 
 .title,
